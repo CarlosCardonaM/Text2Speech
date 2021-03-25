@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/Pods-Text2Speech/Pods-Text2Speech-frameworks.sh
+${BUILT_PRODUCTS_DIR}/IQKeyboardManagerSwift/IQKeyboardManagerSwift.framework
+${PODS_ROOT}/MicrosoftCognitiveServicesSpeech-iOS/MicrosoftCognitiveServicesSpeech.framework

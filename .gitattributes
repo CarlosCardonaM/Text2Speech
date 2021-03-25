@@ -1,0 +1,2 @@
+MicrosoftCognitiveServicesSpeech filter=lfs diff=lfs merge=lfs -text
+Pods/MicrosoftCognitiveServicesSpeech-iOS/MicrosoftCognitiveServicesSpeech.framework/MicrosoftCognitiveServicesSpeech filter=lfs diff=lfs merge=lfs -text
